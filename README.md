@@ -1,0 +1,1 @@
+Sistema simples em Python que simula um mercado e possui ferramentas relacionadas, como cadastramento, listagem e compra de produtos, visualização do carrinho e fechamento dos pedidos.
